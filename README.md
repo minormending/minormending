@@ -1,4 +1,4 @@
-![Kevin Ramdath!](https://github.com/minormending/minormending/blob/9c266756dc25d08fe348834b5201a9008061ca6c/banner.gif)
+![Kevin Ramdath!](https://github.com/minormending/minormending/blob/main/banner.gif)
 
 ### 👋 About Me 
 I'm a software engineer from NYC with a plethora of experience with App Store Connect, Google Play, Amazon Appstore, etc. Most of my time has been spent on the data analytics side rather than the app development.
